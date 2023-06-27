@@ -1,0 +1,35 @@
+[
+    {
+      "id": "m1",
+      "name": "Sushi",
+      "description": "Finest fish and veggies",
+      "price": 22.99,
+      "date": "2022-05-24",
+      "picture": "https://image.freepik.com/free-photo/grilled-chicken_144627-17510.jpg"
+    },
+    {
+      "id": "m2",
+      "name": "Schnitzel",
+      "description": "A german specialty!",
+      "price": 16.5,
+      "date": "2021-02-01",
+      "picture": "https://image.freepik.com/free-photo/close-up-fried-chicken-drumsticks_23-2148682835.jpg"
+    },
+    {
+      "id": "m3",
+      "name": "Barbecue Burger",
+      "description": "American, raw, meaty",
+      "price": 12.99,
+      "date": "2021-03-22",
+      "picture": "https://image.freepik.com/free-photo/big-double-cheddar-cheeseburger-with-chicken-cutlet_147620-1306.jpg"
+    },
+    {
+      "id": "m4",
+      "name": "Green Bowl",
+      "description": "Healthy...and green...",
+      "price": 18.99,
+      "date": "2020-10-12",
+      "picture": "https://image.freepik.com/free-photo/grill-chicken-burger_1339-1394.jpg"
+    }
+  ]
+  

@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&amp;display=swap);
+:root{
+    --color-white : #ffffff;
+    --color-black : #000000;
+    --color-black-olive : #3f3f3f;
+    --color-deep-violet : #4F005F;
+}
+*,
+* ::after,
+* ::before{
+  padding: unset;
+  margin: unset;
+  box-sizing: border-box;
+  color: inherit;
+  text-decoration: none;
+  outline: unset;
+  list-style: none;
+}
+.text-white{color: var(--color-white);}
+.bg-deep-violet{background-color: var(--color-deep-violet);}
+.d-flex{display: flex;}
+.d-flex-col{display: flex; flex-direction: column;}
+.flex-wrap{flex-wrap: wrap;}
+.gap-1{gap: 5px;}
+.gap-2{gap: 10px;}
+.gap-3{gap: 15px;}
+.gap-4{gap: 20px;}
+.justify-contant-space-between{justify-content: space-between;}
+.justify-contant-space-around{justify-content: space-around;}
+.justify-contant-center{justify-content: center;}
+.align-items-center{align-items: center;}
+.d-inline-block{display: inline-block;}
+.d-block{display: block;}
+.d-none{display: none;}
+.py-10{padding: 10px 0;}
+.font-bold{font-weight: bold;}
+.font-size-14{font-size: 14px;}
+.text-center{text-align: center;}
+.position-relative{position: relative;}
+.position-absolute{position: absolute;}
+.position-fixed{position: fixed;}
+.w-100{width: 100%;}
+.cursorPointer{cursor: pointer;}
+.pl-5{padding-left: 5px;}
+.mt-1{margin-top: 5px;}
+.mt-2{margin-top: 10px;}
+.mt-3{margin-top: 15px;}
+.mt-4{margin-top: 20px;}
+.mt-5{margin-top: 25px;}
+.mb-3{margin-bottom: 15px;}
+.m-auto{margin: auto;}
+html {font-family: "Noto Sans JP", sans-serif;}
+body{background-color: var(--color-black-olive);}
